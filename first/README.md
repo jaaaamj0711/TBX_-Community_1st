@@ -1,0 +1,1 @@
+- [코로나 양성률 분석](https://public.tableau.com/profile/.67896072#!/vizhome/1_16200093798750/1)
