@@ -1,2 +1,0 @@
-- [코로나 양성률 분석](https://public.tableau.com/profile/.67896072#!/vizhome/1_16200093798750/1)
-- [코로나 신규 확진자 및 양성률 분석](https://public.tableau.com/profile/.67896072#!/vizhome/119_16200219929350/1_1)
