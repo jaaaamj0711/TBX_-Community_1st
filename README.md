@@ -11,3 +11,4 @@
 - [우리나라 인구수 현황](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day5/1)
 - [K-pop Idol Instgram Ranking](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day6K-popIdolInstgramRanking/K-popIdolInstagramRanking)
 - [Club house Users with many number of followers](https://public.tableau.com/profile/.67896072#!/vizhome/ClubhouseUserswithmanynumberoffollowers/1_1)
+- [Yes 24 책 판매 분석](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day7/1_1)
