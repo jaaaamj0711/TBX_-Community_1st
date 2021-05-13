@@ -12,3 +12,4 @@
 - [K-pop Idol Instgram Ranking](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day6K-popIdolInstgramRanking/K-popIdolInstagramRanking)
 - [Club house Users with many number of followers](https://public.tableau.com/profile/.67896072#!/vizhome/ClubhouseUserswithmanynumberoffollowers/1_1)
 - [Yes 24 책 판매 분석](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day7/1_1)
+- [MBC 뉴스데스크 VS JTBC 뉴스룸<시청률 비교>](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_DayMBCVSJTBC/1_1)
