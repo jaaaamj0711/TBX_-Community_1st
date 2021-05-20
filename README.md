@@ -14,3 +14,5 @@
 - [Yes 24 책 판매 분석](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day7/1_1)
 - [MBC 뉴스데스크 VS JTBC 뉴스룸<시청률 비교>](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_DayMBCVSJTBC/1_1)
 - [Kaggler Dashboard](https://public.tableau.com/profile/.67896072#!/vizhome/KagglerDashboard/1)
+- [라인 프렌즈 상품 리스트](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day9/1)
+- [Hyun Jin Ryu Type of Pithces MLB](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day11HyunJinRyuTypeofPithcesMLB/1_2)
