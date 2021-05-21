@@ -16,3 +16,4 @@
 - [Kaggler Dashboard](https://public.tableau.com/profile/.67896072#!/vizhome/KagglerDashboard/1)
 - [라인 프렌즈 상품 리스트](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day9/1)
 - [Hyun Jin Ryu Type of Pithces MLB](https://public.tableau.com/profile/.67896072#!/vizhome/TBX_Day11HyunJinRyuTypeofPithcesMLB/1_2)
+- [Superstore 제품 대분류별 매출](https://public.tableau.com/profile/.67896072#!/?newProfile=&activeTab=0)
